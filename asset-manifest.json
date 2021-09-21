@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pwdfrauk/teastreact/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pwdfrauk/teastreact/static/js/main.9a226d72.chunk.js",
+    "main.js.map": "/pwdfrauk/teastreact/static/js/main.9a226d72.chunk.js.map",
+    "runtime-main.js": "/pwdfrauk/teastreact/static/js/runtime-main.69bd3159.js",
+    "runtime-main.js.map": "/pwdfrauk/teastreact/static/js/runtime-main.69bd3159.js.map",
+    "static/js/2.11a73fe2.chunk.js": "/pwdfrauk/teastreact/static/js/2.11a73fe2.chunk.js",
+    "static/js/2.11a73fe2.chunk.js.map": "/pwdfrauk/teastreact/static/js/2.11a73fe2.chunk.js.map",
+    "static/js/3.6a337436.chunk.js": "/pwdfrauk/teastreact/static/js/3.6a337436.chunk.js",
+    "static/js/3.6a337436.chunk.js.map": "/pwdfrauk/teastreact/static/js/3.6a337436.chunk.js.map",
+    "index.html": "/pwdfrauk/teastreact/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pwdfrauk/teastreact/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.11a73fe2.chunk.js.LICENSE.txt": "/pwdfrauk/teastreact/static/js/2.11a73fe2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pwdfrauk/teastreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69bd3159.js",
+    "static/js/2.11a73fe2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9a226d72.chunk.js"
+  ]
+}
